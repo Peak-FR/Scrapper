@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "platforms": {
     "win32": {
       "download_url": "https://github.com/Peak-FR/Scrapper/releases/download/V0.9.0-windows/MinDIYrest_Windows_v0.9.0.zip",
